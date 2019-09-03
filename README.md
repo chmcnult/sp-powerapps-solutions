@@ -1,6 +1,6 @@
 # SharePoint PowerApps Solutions
 
-This repository contains PowerApps solution samples which demonstrates difference scenarios. 
+This repository contains Power Platform and business app solution samples which demonstrates practical scenarios. 
 
 # Contributing
 
